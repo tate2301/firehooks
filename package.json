@@ -1,0 +1,13 @@
+{
+  "name": "firehooks",
+  "version": "1.0.0",
+  "description": "Firebase hooks for React",
+  "main": "index.js",
+  "repository": "https://github.com/tate2301/firehooks",
+  "author": "Tatenda Christopher Chinyamakobvu",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
